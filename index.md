@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Hi: Welcome to Paola Perez Website made during Tech Taco!
 ---
 
